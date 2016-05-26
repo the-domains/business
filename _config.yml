@@ -1,7 +1,7 @@
 name: Business
 favicon: null
-layout_spectrum: 0.7622
-typography_spectrum: 0.94289
+layout_spectrum: 0.75845209765248
+typography_spectrum: 0.7551085334271193
 cta:
   domain: null
   bucket: null
@@ -16,15 +16,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#0c0d08'
-    - '#9b6f42'
-    - '#aca392'
-    - '#921116'
-  brandStrength: 0
-  lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.5
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.5973856505006552
+  lightness: 0.9978466236498207
+  saturation: 0.09787142835557461
+  rhythmicContrast: 0.8683425423223525
 purpose:
   - name: engagement
     item: 88a86150-915c-408c-9097-d592983d5ba9
